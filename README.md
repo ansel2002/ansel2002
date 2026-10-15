@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ1OGl4M2FzMmo3YTB3MGY0Z2JiZmJrenB5Zm94aDRscTFvcDIyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IHkILvQZ94BxMdBHp0/giphy.gif"  />
-</div>
+<p align="center">
+  <video src="gemini_generated_video_1f5034ef.mp4" autoplay loop muted playsinline width="600"></video>
+</p>
 
 ###
 
