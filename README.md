@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <video src="gemini_generated_video_1f5034ef.mp4" autoplay loop muted playsinline width="600"></video>
+  <img src="gemini_generated_video_1f5034ef.gif" alt="Animated loop" width="600"/>
 </p>
 
 ###
