@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Hi I'm Ansel Paul from Goa,India .<br>An Aspiring Data Scientist with determination to keeping learning new things everyday <br><br>- 📚 I'm currently in doing my Masters in Data Science <br>- ⚡ In my free time i love to eat , code , drink tons of coffee and sleepppppp obviously...</p>
+<p align="left">Hi I'm Ansel Paul from Goa,India .<br>An Aspiring Data Scientist with determination to keeping learning new things everyday <br><br>- 📚 I'm currently working in IT department <br>- ⚡ In my free time i love to eat , code , drink tons of coffee and sleepppppp obviously...</p>
 
 ###
 
